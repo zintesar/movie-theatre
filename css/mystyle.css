@@ -1,0 +1,105 @@
+<style>
+	
+
+
+	.dummy
+	{
+    color :red ;
+	}
+
+	.head
+	{
+		background-color: #352917;
+		
+		color : blue ;
+		padding : 20px 200px 70px 200px ;
+		
+		
+	}
+	.body_no_mar
+	{
+		margin : 0px 0px 0px 0px;
+	}
+	
+	.nav_right
+	{
+		padding:0px 0px 0px 0px ;
+		width : 66.66% ;
+		float : left; 
+		
+	}
+	.nav_left
+	{
+		padding: 0px 0px 0px 0px ;
+		width : 33.33% ;
+		float: left;
+		
+		
+	}
+	.admin_nav_bg
+	{
+		background-color: #4d0000;
+		padding : 10px 100px 50px 100px ;
+	}
+        
+	.admin_nav
+	{
+		
+		padding:0px 0px 0px 70px ;
+		width : 100% ;
+		float : left; 
+		
+	}
+	ul
+	{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+	}
+
+	.list 
+	{
+    margin :0;
+	}
+	.alist
+	{
+	 margin :0;
+
+	}
+	
+
+	.list a
+	{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	}
+	
+
+	.list a:hover 
+	{
+    background-color: #493921
+
+	}
+	
+	
+	.list a:active 
+	{
+    background-color: #A3C8DA;
+	}
+	
+	.pad
+	{
+		padding : 30px 600px 50px 600px;
+	}
+	
+	.error_red
+	{
+		color : red ;
+	}
+
+</style>

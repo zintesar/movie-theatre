@@ -1,0 +1,43 @@
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.card {
+    height: 100%;
+}
+
+.customhead
+{
+	
+	margin:3px;
+	min-height:300px;
+	background-color:silver;
+	text-align:center;
+	font-size:large;
+	
+}
+#brand_name
+{
+	font-family:Lily Script One;
+	font-size:3.4em;
+	font-weight:300;
+	border:4px double grey;
+	border-radius:150px/90px;
+	background:white;
+	color:#666666;
+	
+}
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+.fix-centered{
+float: none;
+margin: 0 auto;
+}
